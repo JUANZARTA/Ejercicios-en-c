@@ -1,0 +1,8 @@
+implementación de estructuras de datos como arreglos, listas enlazadas, árboles y grafos en C.
+Algoritmos de búsqueda y ordenamiento en diferentes estructuras de datos.
+Análisis de la complejidad temporal de los algoritmos implementados.
+Problemas de recursión y backtracking.
+Manejo de punteros y memoria dinámica.
+Implementación de operaciones básicas como inserción, eliminación y búsqueda en estructuras de datos.
+Uso de punteros a funciones.
+Implementación de funciones recursivas.
